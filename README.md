@@ -151,7 +151,7 @@ POST /api/user/login
 📌 **Respuesta esperada:**
 ```json
 {
-  "message": "✅ Login exitoso",
+  "message": "logged in",
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 }
 ```
